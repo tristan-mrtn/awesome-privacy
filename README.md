@@ -1565,6 +1565,7 @@ These services build a profile from everything you read. A local or self-hosted 
 
 ## Utilities
 - [Deskreen](https://github.com/pavlobu/deskreen) - Turn any device into a secondary screen for your computer.
+- [Convertex](https://github.com/tristan-mrtn/Convertex) - Chrome extension that converts files locally in the browser with WebAssembly, replacing upload-based converters such as CloudConvert or Convertio. GPL-3.0, Chrome and Chromium browsers.
 
 [Back to top 🔝](#contents)
 
